@@ -8,3 +8,14 @@
 
         Prohíbe cierta sintaxis que probablemente sea definida en futuras versiones de ECMAScript.
 */
+'use strict';
+ pi = 3.1416;
+ console.log(pi);
+
+ function myFuction(){
+    'use strict';
+    return pipiipip= 3.1416;
+ }
+
+ console.log(myFuction());
+ 
